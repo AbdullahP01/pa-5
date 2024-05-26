@@ -1,0 +1,8 @@
+{
+  "name": "PA5",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "4d559c4b"
+}
